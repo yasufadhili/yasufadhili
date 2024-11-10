@@ -34,7 +34,7 @@ struct Developer {
     │   ├── UDP
     │   └── Custom Protocol Design
     ├── optimisation/
-    │   ├── Cache Optimization
+    │   ├── Cache Optimisation
     │   ├── Memory Management
     │   └── Lock-Free Programming
     └── systems/
@@ -74,8 +74,8 @@ namespace current {
 ## 🛰️ Network Interfaces
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <!--<a href="https://linkedin.com/in/yasufadhili"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>-->
+  <a href="mailto:yasufadhili@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ## 📚 Technical Documentation
