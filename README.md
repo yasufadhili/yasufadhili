@@ -7,12 +7,14 @@
 
 ```cpp
 struct Developer {
-    const char* name = "YOUR_NAME";
+    const char* name = "Yasu Fadhili";
     const char* focus = "Low-level systems & networking";
+    const char* level = "Student";
     std::array<std::string, 3> core_domains = {
+        "Low level networking",
         "Network Protocol Design",
         "Systems Programming",
-        "Performance Optimization"
+        "Performance Optimisation"
     };
     uint16_t port = 443; // Always open for collaboration
 } __attribute__((packed));
