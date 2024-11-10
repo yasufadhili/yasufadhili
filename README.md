@@ -1,7 +1,7 @@
 
-# 💻 Systems Explorer | Low-Level Voyager <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28">
+# 💻 Systems Networking Explorer | Low-Level Voyager <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Systems+Programmer;Network+Protocol+Designer;Performance+Optimizer;Kernel+Space+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Systems+Programming+Student;Network+Protocol+Design;Performance+Opitimisation;Kernel+Space+Exploration)](https://git.io/typing-svg)
 
 ## 📡 System Specs
 
