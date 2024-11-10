@@ -47,15 +47,19 @@ struct Developer {
 
 ## 📊 Performance Metrics
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasufadhili&show_icons=true&theme=dark" alt="System Stats" />
 </p>
+-->
 
 ## 💾 Most Used Languages
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasufadhili&layout=compact&theme=dark&hide=html,css,javascript" alt="Language Stats" />
 </p>
+-->
 
 ## 🔍 Current System Traces
 
