@@ -97,5 +97,5 @@ namespace current {
 
 ---
 <p align="center">
-<code>while(true) { optimize(); learn(); contribute(); }</code>
+<code>while(true) { optimise(); learn(); contribute(); }</code>
 </p>
