@@ -1,5 +1,5 @@
 
-# 💻 Systems Networking Explorer | Low-Level Voyager <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28">
+# 💻 Networking | C++ <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Systems+Programming+Student;Network+Protocol+Design;Performance+Opitimisation;Kernel+Space+Exploration)](https://git.io/typing-svg)
 
