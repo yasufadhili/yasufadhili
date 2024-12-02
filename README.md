@@ -1,8 +1,9 @@
 
 # 💻 Networking | C++ <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Systems+Programming+Student;Network+Protocol+Design;Performance+Opitimisation;Kernel+Space+Exploration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Systems+Programming+Student;Networking;Performance+Opitimisation;Low+Level+Exploration)](https://git.io/typing-svg)
 
+<!--
 ## 📡 System Specs
 
 ```cpp
@@ -19,14 +20,16 @@ struct Developer {
     uint16_t port = 443; // Always open for collaboration
 } __attribute__((packed));
 ```
+-->
 
-## 🔧 Core Systems
+## 🔧 Core Tools
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-black?style=flat-square&logo=cisco)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake)
 
+<!--
 ## 🌌 System Architecture
 
 ```plaintext
